@@ -1,0 +1,158 @@
+[
+  {
+    "id": "1",
+    "nombre": "Cuenta Ahorro Digital",
+    "tipo": "Cuenta",
+    "categoria": "Ahorro",
+    "tasaInteres": "3.5%",
+    "riesgo": "Bajo",
+    "beneficios": [
+      "Sin comisiones",
+      "Acceso 24/7 desde la app",
+      "Transferencias inmediatas"
+    ]
+  },
+  {
+    "id": "2",
+    "nombre": "Tarjeta Débito BankPro",
+    "tipo": "Tarjeta",
+    "categoria": "Débito",
+    "tasaInteres": "0%",
+    "riesgo": "N/A",
+    "beneficios": [
+      "Control total desde la app",
+      "Bloqueo/desbloqueo instantáneo",
+      "Pagos sin contacto"
+    ]
+  },
+  {
+    "id": "3",
+    "nombre": "Fondo Conservador BankPro",
+    "tipo": "Fondo de inversión",
+    "categoria": "Inversión",
+    "tasaInteres": "4.2% anual",
+    "riesgo": "Bajo",
+    "beneficios": [
+      "Retiro flexible",
+      "Inversión desde $1,000",
+      "Ideal para perfiles conservadores"
+    ]
+  },
+  {
+    "id": "4",
+    "nombre": "Cuenta Nómina Plus",
+    "tipo": "Cuenta",
+    "categoria": "Nómina",
+    "tasaInteres": "2.0%",
+    "riesgo": "Bajo",
+    "beneficios": [
+      "Depósito inmediato de tu salario",
+      "Sin costo por manejo de cuenta",
+      "Acceso a crédito preferente"
+    ]
+  },
+  {
+    "id": "5",
+    "nombre": "Tarjeta de Crédito Flex",
+    "tipo": "Tarjeta",
+    "categoria": "Crédito",
+    "tasaInteres": "29.9% anual",
+    "riesgo": "Medio",
+    "beneficios": [
+      "Meses sin intereses",
+      "Límites flexibles",
+      "Bonificaciones en compras"
+    ]
+  },
+  {
+    "id": "6",
+    "nombre": "Fondo Moderado Pro",
+    "tipo": "Fondo de inversión",
+    "categoria": "Inversión",
+    "tasaInteres": "6.8% anual",
+    "riesgo": "Medio",
+    "beneficios": [
+      "Diversificación inteligente",
+      "Ideal para plazos medios",
+      "Gestión automatizada"
+    ]
+  },
+  {
+    "id": "7",
+    "nombre": "Seguro de Vida Familiar",
+    "tipo": "Seguro",
+    "categoria": "Vida",
+    "tasaInteres": "N/A",
+    "riesgo": "N/A",
+    "beneficios": [
+      "Cobertura hasta $1M MXN",
+      "Asistencia médica incluida",
+      "Pago mensual flexible"
+    ]
+  },
+  {
+    "id": "8",
+    "nombre": "Seguro de Gastos Médicos",
+    "tipo": "Seguro",
+    "categoria": "Salud",
+    "tasaInteres": "N/A",
+    "riesgo": "N/A",
+    "beneficios": [
+      "Cobertura nacional e internacional",
+      "Incluye consultas y hospitalización",
+      "Sin deducible en urgencias"
+    ]
+  },
+  {
+    "id": "9",
+    "nombre": "Fondo Agresivo Visionario",
+    "tipo": "Fondo de inversión",
+    "categoria": "Inversión",
+    "tasaInteres": "12.3% anual",
+    "riesgo": "Alto",
+    "beneficios": [
+      "Enfocado en tecnología y startups",
+      "Requiere perfil arriesgado",
+      "Altos rendimientos potenciales"
+    ]
+  },
+  {
+    "id": "10",
+    "nombre": "Cuenta Juvenil BankPro",
+    "tipo": "Cuenta",
+    "categoria": "Juvenil",
+    "tasaInteres": "2.5%",
+    "riesgo": "Bajo",
+    "beneficios": [
+      "Diseñada para menores de 25 años",
+      "Descuentos en educación y entretenimiento",
+      "Sin comisiones"
+    ]
+  },
+  {
+    "id": "11",
+    "nombre": "Tarjeta Virtual Instantánea",
+    "tipo": "Tarjeta",
+    "categoria": "Virtual",
+    "tasaInteres": "0%",
+    "riesgo": "Bajo",
+    "beneficios": [
+      "Genera nuevas tarjetas al instante",
+      "Ideal para compras en línea",
+      "Seguridad total con CVV dinámico"
+    ]
+  },
+  {
+    "id": "12",
+    "nombre": "Seguro de Auto Digital",
+    "tipo": "Seguro",
+    "categoria": "Auto",
+    "tasaInteres": "N/A",
+    "riesgo": "N/A",
+    "beneficios": [
+      "Cobertura completa",
+      "Asistencia 24/7 en carretera",
+      "Contratación 100% en línea"
+    ]
+  }
+]
